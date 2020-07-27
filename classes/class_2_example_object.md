@@ -3,7 +3,7 @@
 ##### Attributes
 
 1. is_folded (true)
-2. menu_items ("heavos_rancheros", "big_rig", "mac_and_cheese_wrap", "seitan_wings", "etc")
+2. menu_items ["heavos_rancheros", "big_rig", "mac_and_cheese_wrap", "seitan_wings", "etc"]
 3. page_count (6 pages)
 5. meal_menu (lunch)
 

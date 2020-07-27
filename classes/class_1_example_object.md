@@ -3,7 +3,7 @@
 ##### Attributes
 
 1. is_on (true)
-2. stove_users ("chef1", "chef2". "chef3", "chef4")
+2. stove_users ["chef1", "chef2". "chef3", "chef4"]
 3. heat_temperature (200 degrees Fahrenheit)
 4. available_stove_surface (36" by 24")
 5. stove_brand (Cooking Performance Group)
