@@ -5,7 +5,7 @@
 1. is_folded (boolean)
 2. menu_items (array)
 3. page_count (integer)
-5. meal_menu (string)
+4. meal_menu (string)
 
 ##### Methods
 
